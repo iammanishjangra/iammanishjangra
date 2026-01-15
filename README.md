@@ -1,60 +1,78 @@
-# Hi 👋, I'm Manish Jangra 
-### Aspiring DevOps & Cloud Engineer | Transitioning from Precision Fabrication to Cloud Infrastructure
+# Hi 👋, I'm Manish Kumar 
+### 🚀 Aspiring DevOps & Cloud Engineer | Infrastructure Automator
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=iammanishjangra&label=Profile%20views&color=0e75b6&style=flat" alt="iammanishjangra" />
+<img src="https://komarev.com/ghpvc/?username=iammanishjangra&label=Profile%20views&color=24292e&style=flat-square" alt="manishjangra" />
 </p>
 
 ---
 
-## 💫 About Me:
-- 🚀 Currently deep-diving into **DevOps & Cloud Computing**.
-- 🛠️ Background: **Commerce with Math** + 5 years of experience in **Precision Fabrication** (Strong analytical & problem-solving skills).
+## 💫 About Me
+Passionate about building scalable infrastructure and automating software delivery pipelines. I focus on bridging the gap between development and operations using modern DevOps practices. 
+
 - 📜 Certified from **Hartron** & **Disha Institute**.
-- 🔭 I’m currently working on building automated CI/CD pipelines.
-- 🌱 Learning: **AWS, Kubernetes, Terraform, and Python**.
-- 💬 Ask me about: How I'm applying my fabrication-level precision to Cloud Infrastructure.
+- 🔭 Currently building production-ready **CI/CD pipelines**.
+- 🌱 Constantly learning and exploring **Cloud-Native technologies**.
+- 💬 Ask me about **AWS, Docker, and Kubernetes**.
 
 ---
 
-## 🛠️ Tech Stack & Tools:
+## 🛠️ Technical Skills
 
-### ☁️ Cloud & Infrastructure
+### 🐧 Core Intro & Version Control
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### ☁️ Cloud Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</p>
+<blockquote><b>Focused on:</b> EC2, S3, IAM, VPC</blockquote>
+
+### 📦 Containerization & Orchestration
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+### ⚙️ Infrastructure as Code (IaC)
+<p align="left">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
 </p>
 
-### 🏗️ DevOps & Automation
+### 🔄 CI/CD Pipelines
 <p align="left">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
-### 💻 Programming & Scripting
+### 📊 Monitoring & Observability
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Contributions
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=iammanishjangra&show_icons=true&theme=radical" alt="iammanishjangra" />
+<img src="https://github-readme-stats.vercel.app/api?username=iammanishjangra&show_icons=true&theme=dark&hide_border=true" alt="manishjangra" />
 </p>
 
 ---
 
-## 📨 Connect with me:
+## 📨 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iammanishjangra" height="30" width="40" /></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iammanishjangra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="manishjangra" /></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM_ID" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="manishjangra" /></a>
+<a href="https://discord.com/users/manishjangra97" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="manishjangra97" /></a>
 </p>
 
 ---
-*“Precision in fabrication, Automation in Cloud.”*
+*“Automating the world, one commit at a time.”*
