@@ -13,7 +13,7 @@ Passionate about building scalable infrastructure and automating software delive
 - 📜 Certified from **Hartron** & **Disha Institute**.
 - 🔭 Currently building production-ready **CI/CD pipelines**.
 - 🌱 Constantly learning and exploring **Cloud-Native technologies**.
-- 💬 Ask me about **AWS, Docker, and Kubernetes**.
+- 💬 Ask me about **AWS, Docker**.
 
 ---
 
