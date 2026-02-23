@@ -1,64 +1,85 @@
-# Hi 👋, I'm Manish Kumar 
-### 🚀 Aspiring DevOps & Cloud Engineer | Infrastructure Automator
+# Hi 👋, I'm Manish Kumar  
+### 🚀 DevOps Engineer | AWS | Docker | CI/CD | Infrastructure Automation
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=iammanishjangra&label=Profile%20views&color=24292e&style=flat-square" alt="manishjangra" />
+<img src="https://komarev.com/ghpvc/?username=iammanishjangra&label=Profile%20views&color=24292e&style=flat-square" alt="iammanishjangra" />
 </p>
 
 ---
 
 ## 💫 About Me
-Passionate about building scalable infrastructure and automating software delivery pipelines. I focus on bridging the gap between development and operations using modern DevOps practices. 
 
-- 📜 Certified from **Hartron** & **Disha Institute**.
-- 🔭 Currently building production-ready **CI/CD pipelines**.
-- 🌱 Constantly learning and exploring **Cloud-Native technologies**.
-- 💬 Ask me about **AWS, Docker**.
+I am a hands-on DevOps Engineer focused on automating infrastructure and building production-ready CI/CD pipelines.
+
+I enjoy working on real-world deployments involving containerization, Infrastructure as Code, and cloud automation.
+
+- 🔭 Currently building automated AWS deployments using Terraform  
+- ⚙️ Implementing CI/CD pipelines using GitHub Actions  
+- 🐳 Containerizing full-stack applications using Docker  
+- 🌱 Continuously learning advanced DevOps & Cloud practices  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Dockerized Full Stack Application
+- Multi-tier architecture (React + Node.js + MySQL + Nginx)
+- Containerized using Docker
+- Automated deployment using GitHub Actions
+- Infrastructure provisioning using Terraform
+
+### 🔹 Automated React Deployment on AWS
+- EC2 infrastructure setup using Terraform
+- Docker + Nginx configuration
+- CI/CD implementation for continuous deployment
+
+### 🔹 Dockerized WordPress Stack
+- Multi-container architecture using Docker Compose
+- Reverse proxy & database configuration
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 🐧 Core Intro & Version Control
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+### 🐧 Linux & Version Control
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-### ☁️ Cloud Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</p>
-<blockquote><b>Focused on:</b> EC2, S3, IAM, VPC</blockquote>
-
-### 📦 Containerization & Orchestration
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+### ☁️ Cloud
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
-### ⚙️ Infrastructure as Code (IaC)
-<p align="left">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+### 📦 Containerization
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-### 🔄 CI/CD Pipelines
-<p align="left">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+### ⚙️ Infrastructure as Code
+<p>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+</p>
+
+### 🔄 CI/CD
+<p>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+<p>
+<a href="https://linkedin.com/in/manishjangra97">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 📨 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/manishjangra97" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="manishjangra" /></a>
-<a href="https://instagram.com/manishjangra97" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="manishjangra" /></a>
-<a href="https://discord.com/users/manishjangra97" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="manishjangra97" /></a>
-</p>
-
----
-*“Automating the world, one commit at a time.”*
+⭐ *“Automating infrastructure, one deployment at a time.”*
